@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "id": "6-1",
+      "scenario": "Which secure coding practice helps prevent SQL injection attacks?",
+      "choices": [
+        "Input validation only",
+        "Parameterized queries",
+        "Client-side validation",
+        "Basic authentication"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Parameterized queries are the most effective way to prevent SQL injection attacks. They ensure that user input is treated as data rather than executable code, preventing malicious SQL from being injected into the query."
+    }
+  ]
+}
