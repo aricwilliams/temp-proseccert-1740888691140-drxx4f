@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "2-1",
+      "scenario": "A network administrator notices unusual outbound traffic patterns during non-business hours. Which security tool would BEST help identify the content of this traffic?",
+      "choices": [
+        "Firewall logs",
+        "Packet analyzer",
+        "Port scanner",
+        "Protocol analyzer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A packet analyzer (like Wireshark) is the best tool for examining the content of network traffic. It allows detailed inspection of packets to identify potential data exfiltration or malicious activity."
+    },
+    {
+      "id": "2-2",
+      "scenario": "Which wireless security protocol is considered the most secure for enterprise networks?",
+      "choices": [
+        "WEP",
+        "WPA",
+        "WPA2",
+        "WPA3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "WPA3 is the latest and most secure wireless security protocol. It provides enhanced authentication and stronger encryption compared to its predecessors, making it the best choice for enterprise networks."
+    }
+  ]
+}
