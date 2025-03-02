@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "id": "5-1",
+      "scenario": "Which encryption algorithm is considered asymmetric and commonly used for secure key exchange?",
+      "choices": [
+        "AES",
+        "3DES",
+        "RSA",
+        "Blowfish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "RSA is an asymmetric encryption algorithm that uses public and private key pairs. It's commonly used for secure key exchange and digital signatures in public key infrastructure (PKI)."
+    }
+  ]
+}
