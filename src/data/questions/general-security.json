@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "1-1",
+      "scenario": "A company needs to implement security controls that ensure data maintains its accuracy and completeness throughout its lifecycle. Which part of the CIA triad addresses this requirement?",
+      "choices": [
+        "Confidentiality",
+        "Integrity",
+        "Availability",
+        "Authentication"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Integrity, part of the CIA triad, ensures that data remains accurate and unaltered throughout its lifecycle. This is achieved through controls like hashing, digital signatures, and checksums."
+    },
+    {
+      "id": "1-2",
+      "scenario": "An organization is implementing a defense-in-depth strategy. Which of the following combinations BEST represents this approach?",
+      "choices": [
+        "Firewalls and antivirus only",
+        "Encryption and access controls only",
+        "Firewalls, IDS, encryption, access controls, and security awareness training",
+        "Physical security and logical security only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Defense-in-depth requires multiple layers of security controls. The combination of firewalls, IDS, encryption, access controls, and security awareness training provides comprehensive protection across different security layers."
+    }
+  ]
+}
