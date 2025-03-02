@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "id": "4-1",
+      "scenario": "Which type of attack involves sending a large number of ICMP echo requests with a spoofed source address to cause network congestion?",
+      "choices": [
+        "Man-in-the-middle attack",
+        "Smurf attack",
+        "SQL injection",
+        "Cross-site scripting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A Smurf attack is a type of DDoS attack that uses ICMP echo requests (pings) with a spoofed source address, causing network devices to respond to the spoofed address and potentially overwhelming the target network."
+    }
+  ]
+}
