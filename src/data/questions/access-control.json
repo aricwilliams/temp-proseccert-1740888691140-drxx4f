@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": "3-1",
+      "scenario": "Which access control model is BEST suited for a military environment where information classification levels must be strictly enforced?",
+      "choices": [
+        "Discretionary Access Control (DAC)",
+        "Role-Based Access Control (RBAC)",
+        "Mandatory Access Control (MAC)",
+        "Rule-Based Access Control"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mandatory Access Control (MAC) is ideal for military environments as it enforces strict security levels and clearances. It ensures that access to information is based on security classifications and user clearance levels."
+    },
+    {
+      "id": "3-2",
+      "scenario": "A company implements multi-factor authentication using a password and a fingerprint scanner. This is an example of authentication using:",
+      "choices": [
+        "Something you know and something you have",
+        "Something you know and something you are",
+        "Something you have and something you are",
+        "Two things you know"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is an example of using something you know (password) and something you are (fingerprint biometric). This combination provides stronger security than single-factor authentication."
+    }
+  ]
+}
